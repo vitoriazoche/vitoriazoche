@@ -14,8 +14,9 @@
 
 <a href="https://instagram.com/vzoccheart" rel="nofollow"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/725/725278.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;margin-right:10px;"></a></p>
 
-<!--medium icon: https://www.flaticon.com/free-icon/medium_725315-->
 
+
+<br />
 <br />
 
 **Languages and Tools:**
@@ -46,6 +47,4 @@
 
 
 
-
-[website]: http://vitoriazoche.github.io/
-[instagram]: https://instagram.com/vzoccheart
+<!--medium icon: https://www.flaticon.com/free-icon/medium_725315-->
