@@ -8,7 +8,7 @@
 
 **Connect with me:**
 
-<a href="https://twitter.com/codeSTACKr" rel="nofollow"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/725/725279.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%; margin-right:10px;"></a> 
+<a href="https://behance.net/vitoriazoche" rel="nofollow"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/725/725279.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%; margin-right:10px;"></a> 
 
 <a href="https://linkedin.com/in/vitoriazoche" rel="nofollow"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/725/725337.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%; margin-right:10px;"></a>
 
