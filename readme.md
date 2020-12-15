@@ -1,25 +1,40 @@
-### Hi there, i'm Vitória - Freelance Web Developer and UI/UX Designer
 
-#### I'm Developer, Designer, and Student of Museology on UFRGS!
+<img width="900px" align="left" src="capa.png" />  
+<br>
+<br>
+<!-- -->
+<center>
+<table>
 
-* I recently started my studies with React JS on Origamid Online courses!
-* Goals for 2020: Contribute to open source projects and speak fluent English;
-* I still working with painting and digital draw, i'm posting in [Instagram](instagram.com/vzoccheart)!
-
-**Connect with me:**
-
-<a href="https://behance.net/vitoriazoche" rel="nofollow"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/725/725279.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%; margin-right:10px;"></a> 
-
-<a href="https://linkedin.com/in/vitoriazoche" rel="nofollow"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/725/725337.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%; margin-right:10px;"></a>
-
-<a href="https://instagram.com/vzoccheart" rel="nofollow"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/725/725278.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;margin-right:10px;"></a></p>
+   <tr>
+   <td>   </td>
+    </tr>
+</table>
+</center>  
 
 
+## Olá! Seja bem-vindo(a)
+### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a>
 
-<br />
-<br />
+* Também sou estudante do 3º semestre de Museologia pela UFRGS
+* Bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a>
+* Faço trabalhos voluntários de identidade visual e comunicação para outros projetos de extensão. Se você tiver uma proposta pode me enviar um <a href="mailto:vzoccheart@gmail.com">email aqui</a>
 
-**Languages and Tools:**
+### Projetos Recentes
+* <a href="https://github.com/vitoriazoche/formHPSP"> GeraFicha: Oficina da Criatividade (OP)</a> - Gerador de Fichas Catalográficas para a OP
+* <a href="https://github.com/vitoriazoche/PGDC"> PGDC </a> - Plano de Gestão de Dados Científicos
+* <a href="#" title="em breve"> DOARS </a> - Elaboração de identidade visual e interface para uma proposta de TCC
+
+### Hobbies
+* Desenhar muuuito no iPad ♥
+* Eu jogo algumas coisas na steam, se quiser ser meu amigo eis o código: **252124896**
+* Também converso demais no discord, entrem no meu <a href="https://discord.gg/VUnY3gj" style="max-width:100%; margin-bottom:20px;">canalzinho ♥</a>
+* E vejo muita, mas muita serié na Netflix
+
+ ### Algumas linguagens e ferramentas que utilizo
+<table>
+   <tr>
+   <td>
 
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;margin-right:10px;" title="Visual Studio Code">
 
@@ -43,8 +58,30 @@
 
 <img align="left" width="22px" src="https://images.ctfassets.net/1khq4uysbvty/4n5xwN1WkUWseGeAQ8UO8o/e2dfda5b63be2e3ad6d2c2abc69fed51/Frame_2.png" title="Figma" style="max-width:100%;margin-right:10px;">
 
-<img align="left" width="22px" src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" title="Bootstrap" style="max-width:100%;margin-right:10px;">
+<img align="left" width="22px" src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" title="Bootstrap" style="max-width:100%;margin-right:10px; margin-bottom:20px;">
+
+   </td>
+   </tr>
+ 
+</table>
 
 
 
-<!--medium icon: https://www.flaticon.com/free-icon/medium_725315-->
+
+### você pode entrar em contato comigo por:
+* <a href="">Portfólio </a>
+* <a href="">Instagram </a>
+* <a href="">Twitter </a>
+* <a href="">E-mail </a>
+* <a href="">Linkedin </a>
+* <a href="">Figma </a>
+* <a href="">Instagram </a>
+<center>
+<table>
+
+   <tr>
+   <td> <img width="250px" align="right" src="giphy.gif" />  </td>
+   <td> <h2> Até a próxima :)</h2></td>
+    </tr>
+</table>
+</center>  
