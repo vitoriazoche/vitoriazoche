@@ -69,12 +69,10 @@
 
 
 ### Você pode entrar em contato comigo por:
-* <a href="vitoriazoche.github.io">Portfólio </a>
-* <a href="instagram.com/vzoccheart">Instagram </a>
-* <a href="twitter.com/vitoriazoche">Twitter </a>
-* <a href="mailto:vzoccheart@gmail.com">E-mail </a>
+* <a href="https://vitoriazoche.github.io">meu site </a>
+* <a href="https://instagram.com/vzoccheart">Instagram </a>
+* <a href="https://twitter.com/vitoriazoche">Twitter </a>
 * <a href="linkedin.com/in/vitoriazoche">Linkedin </a>
-* <a href="https://www.figma.com/@vitoriazoche">Figma </a>
 * <a href="https://www.youtube.com/channel/UCS3R0Uv_Axyihl4Uk4yRYmA?view_as=subscriber">YouTube </a>
 <center>
 <table style="border:none;">
