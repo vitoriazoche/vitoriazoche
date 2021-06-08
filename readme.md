@@ -18,11 +18,11 @@
 ## Olá! Seja bem-vindo(a)
 ### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a>
 
-* Sou **UI/UX Designer** na Fteam e na Quem Contrato ♥♥
-* Formada em Análise e Desenvolvimento de Sistemas pelo SENAI RS
+* Sou **UI/UX Designer** na <a href="https://f-team.dev/"> Fteam</a> e no <a href="https://quemcontrato.com/"> Quem Contrato</a> ♥♥
+* Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
 * Pós-graduada em Marketing Digital e Gestão Comercial pela UNINTER
-* Fui bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> e no NUTED como UX/UI Designer (bolsa SEAD)
-* Faço trabalhos voluntários de identidade visual e comunicação para outros projetos de extensão. Se você tiver uma proposta pode me enviar um <a href="mailto:vzoccheart@gmail.com">email aqui</a>
+* Fui bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> e no <a href="http://www.nuted.ufrgs.br/">NUTED</a> como UX/UI Designer (bolsa SEAD)
+* Faço trabalhos voluntários de identidade visual e comunicação para outros projetos de extensão. Se você tiver uma proposta pode me enviar uma mensagem no telegram <a href="https://t.me/vzoccheart">@vzoccheart</a>
 
 ### Projetos Recentes
 * <a href="https://github.com/vitoriazoche/formHPSP"> GeraFicha: Oficina da Criatividade (OP)</a> - Gerador de Fichas Catalográficas para a OP
