@@ -13,6 +13,8 @@
 </center>  
 
 
+
+
 ## Olá! Seja bem-vindo(a)
 ### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a>
 
