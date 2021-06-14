@@ -1,5 +1,5 @@
 
-<img width="900px" align="left" src="vitória zoche.png" />  
+<img width="900px" align="left" src="capa.png" />  
 <br>
 <br>
 <!-- -->
