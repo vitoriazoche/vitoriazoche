@@ -1,5 +1,5 @@
 
-<img width="900px" align="left" src="capa.png" />  
+<img width="900px" align="left" src="capa.gif" />  
 <br>
 <br>
 <!-- -->
