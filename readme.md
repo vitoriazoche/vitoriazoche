@@ -18,7 +18,7 @@
 ## Olá! Seja bem-vindo(a)
 ### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a>
 
-* Sou **UI/UX Designer** na <a href="https://f-team.dev/"> Fteam</a> e no <a href="https://quemcontrato.com/"> Quem Contrato</a> ♥♥
+* Sou **UI/UX Designer** na <a href="https://f-team.dev/"> Fteam</a> e na vzoccheart ♥♥
 * Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
 * Pós-graduada em Marketing Digital e Gestão Comercial pela UNINTER
 * Fui bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> e no <a href="http://www.nuted.ufrgs.br/">NUTED</a> como UX/UI Designer (bolsa SEAD)
@@ -32,7 +32,6 @@
 ### Hobbies
 * Desenhar muuuito no iPad ♥
 * Eu jogo algumas coisas na steam, se quiser ser meu amigo eis o código: **252124896**
-* Também converso demais no discord, entrem no meu <a href="https://discord.gg/VUnY3gj" style="max-width:100%; margin-bottom:20px;">canalzinho ♥</a>
 * E vejo muita, mas muita serié na Netflix
 
  ### Algumas linguagens e ferramentas que utilizo
