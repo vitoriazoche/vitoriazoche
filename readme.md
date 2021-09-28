@@ -16,21 +16,26 @@
 
 
 ## Olá! Seja bem-vindo(a)
-### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a>
+### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a> e também na <a href="https://f-team.dev/"> Fteam</a> ♥♥
 
-* Sou **UI/UX Designer** na <a href="https://f-team.dev/"> Fteam</a> e na vzoccheart ♥♥
+#### Trajetória
 * Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
 * Pós-graduada em Marketing Digital e Gestão Comercial pela UNINTER
-* Fui bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> e no <a href="http://www.nuted.ufrgs.br/">NUTED</a> como UX/UI Designer (bolsa SEAD)
-* Faço trabalhos voluntários de identidade visual e comunicação para outros projetos de extensão. Se você tiver uma proposta pode me enviar uma mensagem no telegram <a href="https://t.me/vzoccheart">@vzoccheart</a>
+* Estagiária durante 2 anos, no desenvolvimento de sistemas web no DAER/RS
+* Bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
+* Bolsista com ênfase em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
+* Voluntária na elaboração do logo do NuTAL UFRGS
+* Voluntária na elaboração do logo do Rede de Professores de Museologia
+* Voluntária na elaboração do logo e identidade visual do FAROL: Coneões da Informação UFRGS
+
 
 ### Projetos Recentes
-* <a href="https://github.com/vitoriazoche/formHPSP"> GeraFicha: Oficina da Criatividade (OP)</a> - Gerador de Fichas Catalográficas para a OP
-* <a href="https://github.com/vitoriazoche/PGDC"> PGDC </a> - Plano de Gestão de Dados Científicos
-* <a href="#" title="em breve"> DOARS </a> - Elaboração de identidade visual e interface para uma proposta de TCC
+* <a href="https://github.com/DanielHe4rt/basement-lms"> Basement LMS </a> - Uma plataforma de Cursos de PHP e Laravel para iniciantes na área, Open-Source 
+* <a href="https://www.instagram.com/devpoli.tech/"> Redesign da Logo do Dev Poli.tech </a> 
+* <a href="#" title="em breve"> Figma Community </a> - Elaboração de identidade visual e interface para uma proposta de TCC
 
-### Hobbies
-* Desenhar muuuito no iPad ♥
+### Hobbies e outros gostos
+* Café gelado é meu novo amor ♥
 * Eu jogo algumas coisas na steam, se quiser ser meu amigo eis o código: **252124896**
 * E vejo muita, mas muita serié na Netflix
 
