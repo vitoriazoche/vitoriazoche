@@ -77,11 +77,11 @@
 
 
 ### Você pode entrar em contato comigo por:
-* <a href="https://vitoriazoche.github.io">meu site </a>
-* <a href="https://instagram.com/vzoccheart">Instagram </a>
+* <a href="https://vitoriazoche.github.io">Meu site </a>
+* <a href="https://instagram.com/vitoriazoche">Instagram </a>
 * <a href="https://twitter.com/vitoriazoche">Twitter </a>
 * <a href="linkedin.com/in/vitoriazoche">Linkedin </a>
-* <a href="https://www.youtube.com/channel/UCS3R0Uv_Axyihl4Uk4yRYmA?view_as=subscriber">YouTube </a>
+* <a href="https://twitch.tv/vitoriazp">Twitch </a>
 <center>
 <table style="border:none;">
 
