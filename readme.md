@@ -86,7 +86,7 @@
 <table style="border:none;">
 
    <tr>
-   <td> <img width="250px" align="right" src="giphy.gif" />  </td>
+   <td> <img width="250px" align="right" src="hyeee.gif" />  </td>
    <td> <h2> Até a próxima :)</h2></td>
     </tr>
 </table>
