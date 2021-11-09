@@ -16,7 +16,7 @@
 
 
 ## Olá! Seja bem-vindo(a)
-### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente trabalho como Freelancer em <a href="instagram.com/vzoccheart">@vzoccheart</a> e também na <a href="https://f-team.dev/"> Fteam</a> ♥♥
+### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente sou freelancer em design de interface e de marca, gostaria de um orçamento? <a href="https://t.me/vitoriazp"> Me chame no Telegram :) </a>
 
 #### Trajetória
 * Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
@@ -27,6 +27,7 @@
 * Voluntária na elaboração do logo do NuTAL UFRGS
 * Voluntária na elaboração do logo do Rede de Professores de Museologia
 * Voluntária na elaboração do logo e identidade visual do FAROL: Coneões da Informação UFRGS
+* UI/UX Designer Júnior na FTEAM
 
 
 ### Projetos Recentes
