@@ -26,14 +26,15 @@
 * Bolsista com ênfase em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
 * Voluntária na elaboração do logo do NuTAL UFRGS
 * Voluntária na elaboração do logo do Rede de Professores de Museologia
-* Voluntária na elaboração do logo e identidade visual do FAROL: Coneões da Informação UFRGS
+* Voluntária na elaboração do logo e identidade visual do FAROL: Conexões da Informação UFRGS
 * UI/UX Designer Júnior na FTEAM
+* UI/UX Designer Júnior na Impulso Work
 
 
 ### Projetos Recentes
 * <a href="https://github.com/DanielHe4rt/basement-lms"> Basement LMS </a> - Uma plataforma de Cursos de PHP e Laravel para iniciantes na área, Open-Source 
 * <a href="https://www.instagram.com/devpoli.tech/"> Redesign da Logo do Dev Poli.tech </a> 
-* <a href="#" title="em breve"> Figma Community </a> - Elaboração de identidade visual e interface para uma proposta de TCC
+* <a href="https://www.instagram.com/xpemporto/" title="Instagram"> Designer gráfica da XP em Porto </a> 
 
 ### Hobbies e outros gostos
 * Café gelado é meu novo amor ♥
@@ -79,7 +80,6 @@
 
 ### Você pode entrar em contato comigo por:
 * <a href="https://vitoriazoche.github.io">Meu site </a>
-* <a href="https://instagram.com/vitoriazoche">Instagram </a>
 * <a href="https://twitter.com/vitoriazoche">Twitter </a>
 * <a href="linkedin.com/in/vitoriazoche">Linkedin </a>
 * <a href="https://twitch.tv/vitoriazp">Twitch </a>
