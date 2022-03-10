@@ -13,16 +13,14 @@
 </center>  
 
 
-
-
 ## Olá! Seja bem-vindo(a)
-### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente sou freelancer em design de interface e de marca, gostaria de um orçamento? <a href="https://t.me/vitoriazp"> Me chame no Telegram :) </a>
+### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente sou UI/UX Designer na <a href="https://impulso.work/">Impulso Work </a>
 
 #### Trajetória
 * Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
 * Pós-graduada em Marketing Digital e Gestão Comercial pela UNINTER
 * Estagiária durante 2 anos, no desenvolvimento de sistemas web no DAER/RS
-* Bolsista no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
+* Bolsista de UX e Social Media no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
 * Bolsista com ênfase em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
 * Voluntária na elaboração do logo do NuTAL UFRGS
 * Voluntária na elaboração do logo do Rede de Professores de Museologia
@@ -32,9 +30,7 @@
 
 
 ### Projetos Recentes
-* <a href="https://github.com/DanielHe4rt/basement-lms"> Basement LMS </a> - Uma plataforma de Cursos de PHP e Laravel para iniciantes na área, Open-Source 
-* <a href="https://www.instagram.com/devpoli.tech/"> Redesign da Logo do Dev Poli.tech </a> 
-* <a href="https://www.instagram.com/xpemporto/" title="Instagram"> Designer gráfica da XP em Porto </a> 
+* Sistema de gerar PDF de fichas preenchidas de obras de arte do Hospital Psiquiatrico São Pedro de POA
 
 ### Hobbies e outros gostos
 * Café gelado é meu novo amor ♥
