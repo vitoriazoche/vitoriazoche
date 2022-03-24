@@ -1,5 +1,5 @@
 
-<img width="900px" align="left" src="capa.gif" />  
+<img width="900px" align="left" src="capa.png" />  
 <br>
 <br>
 <!-- -->
@@ -13,8 +13,9 @@
 </center>  
 
 
-## Olá! Seja bem-vindo(a)
-### Eu sou a Vitória, sou desenvolvedora e designer de Experiência e Interface do Usuário (UI/UX). Atualmente sou UI/UX Designer na <a href="https://impulso.work/">Impulso Work </a>
+## Oie! Seja bem-vinde!!
+### Eu sou a Vitória, ex-web designer, e atual UI/UX Designer na <a href="https://impulso.work/">Impulso Work </a><hr>
+</br>
 
 #### Trajetória
 * Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
