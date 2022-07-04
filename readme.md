@@ -1,17 +1,7 @@
 
-<img width="900px" align="left" src="capa.png" />  
+<img width="900px" align="left" src="Frame 2.png" />  
 <br>
 <br>
-<!-- -->
-<center>
-<table>
-
-   <tr>
-   <td>   </td>
-    </tr>
-</table>
-</center>  
-
 
 ## Oie! Seja bem-vinde!!
 ### Eu sou a Vitória, ex-web designer, e atual UI/UX Designer na <a href="https://impulso.work/">Impulso Work </a><hr>
@@ -43,7 +33,7 @@
 
 
 ### Você pode entrar em contato comigo por:
-* <a href="https://vitoriazoche.github.io">Meu site </a>
+* <a href="https://vzoccheart.super.site">Meu site </a>
 * <a href="https://twitter.com/vitoriazoche">Twitter </a>
 * <a href="linkedin.com/in/vitoriazoche">Linkedin </a>
 * <a href="https://twitch.tv/vitoriazp">Twitch </a>
