@@ -23,19 +23,20 @@
 
 
 #### Trajetória
-* Formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://www.senairs.org.br/faculdade-senai"> SENAI RS</a>
-* Pós-graduada em Marketing Digital e Gestão Comercial pela UNINTER
 * Estagiária durante 2 anos, no desenvolvimento de sistemas web no DAER/RS
-* Bolsista de UX e Social Media no Projeto de Extensão <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
-* Bolsista com ênfase em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
-* Voluntária na elaboração do logo e identidade visual do FAROL: Conexões da Informação UFRGS
-* UI/UX Designer Júnior na FTEAM
-* UI/UX Designer Júnior na Impulso Work
+* 2019 • Formada em Análise e Desenvolvimento de Sistemas 
+* 2020 • Pós-graduada em Marketing Digital e Gestão Comercial
+* 2020 • Bolsista de UX e Social Media no <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
+* 2020 • Bolsista em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
+* 2021 • UI/UX Designer Júnior na FTEAM
+* 2022 • UI/UX Designer Júnior na Impulso Work
+* 2022 • Product Design na Conta Voltz do Grupo Energisa
 
-### Hobbies e outros gostos
-* Café gelado é meu novo amor ♥
-* Eu jogo algumas coisas na <span><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></span> código de amigo: **252124896**
-* E vejo muita, mas muita série na Netflix
+### Hobbies
+* Eu gosto de jogos online como FFXIV, God Of War e  a coletânea de Tomb Raider ♥
+* Adoro ver séries online, principalmente aquelas que são em outro idioma (fora do inglês).
+* Quando estou fora de casa, busco levar comigo um caderninho para desenhar ou um livro para ler :)
+* Sempre que possível vou a restaurantes com temáticas diferentes para comer e tirar foto kkkk
 
 <div style="display:inline_block">
    <a href="https://twitter.com/vitoriazoche" target="_blank">
@@ -47,15 +48,11 @@
    <a href="https://linkedin.com/in/vitoriazoche" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-     <a href="https://twitch.tv/vitoriazoche" target="_blank">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-   </a>
    <a href="https://www.behance.net/vitoriazoche" target="_blank">
       <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
    </a>
    
 </div>
-
 
 
 <table style="border:none;">
