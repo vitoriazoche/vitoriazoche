@@ -1,5 +1,5 @@
 ## Oie! Seja bem-vinde!!
-### Eu sou a Vitória, ex-web designer, e atual UI/UX Designer na <a href="https://contavoltz.com.br">conta Voltz⚡ </a><hr>
+### Eu sou a Vitória, frontend, e atual UI/UX Designer na <a href="https://contavoltz.com.br">conta Voltz⚡ </a><hr>
 </br>
 
 <div>
