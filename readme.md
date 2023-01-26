@@ -31,6 +31,7 @@
 * 2021 • UI/UX Designer Júnior na FTEAM
 * 2022 • UI/UX Designer Júnior na Impulso Work
 * 2022 • Product Design na Conta Voltz do Grupo Energisa
+* 2023 • Designer Ops na Conta Voltz do Grupo Energisa
 
 ### Hobbies
 * Eu gosto de jogos online como FFXIV, God Of War e  a coletânea de Tomb Raider ♥
