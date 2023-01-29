@@ -3,7 +3,6 @@
 </br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriazoche&show_icons=true&theme=cobalt">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriazoche&layout=compact&theme=cobalt">
 </div>
 
@@ -23,15 +22,18 @@
 
 
 #### Trajetória
-* Estagiária durante 2 anos, no desenvolvimento de sistemas web no DAER/RS
-* 2019 • Formada em Análise e Desenvolvimento de Sistemas 
-* 2020 • Pós-graduada em Marketing Digital e Gestão Comercial
-* 2020 • Bolsista de UX e Social Media no <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
-* 2020 • Bolsista em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
-* 2021 • UI/UX Designer Júnior na FTEAM
-* 2022 • UI/UX Designer Júnior na Impulso Work
-* 2022 • Product Design na Conta Voltz do Grupo Energisa
+
 * 2023 • Designer Ops na Conta Voltz do Grupo Energisa
+* 2022 • Product Design na Conta Voltz do Grupo Energisa
+* 2022 • UI/UX Designer Júnior na Impulso Work
+* 2021 • UI/UX Designer Júnior na FTEAM
+* 2020 • Bolsista em  UX/UI Designer no <a href="http://www.nuted.ufrgs.br/">NUTED</a> (bolsa SEAD)
+* 2020 • Bolsista de UX e Social Media no <a href="ufrgs.br/farol">Farol:Conexões da Informação</a> 
+* 2020 • Pós-graduada em Marketing Digital e Gestão Comercial
+* 2019 • Formada em Análise e Desenvolvimento de Sistemas 
+* Estagiária durante 2 anos, no desenvolvimento de sistemas web no DAER/RS
+
+
 
 ### Hobbies
 * Eu gosto de jogos online como FFXIV, God Of War e  a coletânea de Tomb Raider ♥
