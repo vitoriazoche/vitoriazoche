@@ -1,5 +1,5 @@
 ## Oie! Seja bem-vinde!!
-### Eu sou a Vitória, frontend, e atual UI/UX Designer na <a href="https://contavoltz.com.br">conta Voltz⚡ </a><hr>
+### Eu sou a Vitória, Product e OPS Designer na <a href="https://contavoltz.com.br">conta Voltz⚡ </a><hr>
 </br>
 
 <div>
@@ -8,12 +8,8 @@
 
 
 <div style="inline_block">
-<img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white">
-<img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white">
 <img src="	https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
@@ -42,7 +38,7 @@
 * Sempre que possível vou a restaurantes com temáticas diferentes para comer e tirar foto kkkk
 
 <div style="display:inline_block">
-   <a href="https://twitter.com/vitoriazoche" target="_blank">
+   <a href="https://twitter.com/vprutsky" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
    <a href="https://medium.com/@vitoriazoche" target="_blank">
