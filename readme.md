@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
   <a href="https://twitch.tv/vitoriazp" target="_blank">
-      <img src=" https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+      <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
    </a>
   
    <a href="https://dev.to/vitoriazp" target="_blank">
