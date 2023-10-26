@@ -4,36 +4,32 @@
    <a href="https://twitter.com/vprutsky" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
-   <a href="https://medium.com/@vitoriazoche" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+   <a href="https://dev.to/vitoriazp" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
    </a>
    <a href="https://linkedin.com/in/vitoriazoche" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://www.behance.net/vitoriazoche" target="_blank">
-      <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+   <a href="https://www.figma.com/@vitoriazp" target="_blank">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
    </a>
 </div>
 
-# Oie 👋
+# Bom te ver por aqui! 👋
  
-**Bom te ver por aqui!**
-
-Eu sou Vitória Zoche, sou estudante de pós-graduação em Experiência do Usuário da UFRGS. Sou apaixonada por organizar e documentar processos de design. Eu amo explorar e aprender novas tecnologias e ferramentas de design e programação.
-
-Em paralelo busco fazer cursos de design system e vitejs. E jogar jogos como: cult of the lamb, god of war, jedi survivor e moonlighter.
+Eu sou Vitória Zoche, curso uma pós-graduação em Experiência do Usuário na UFRGS. Sou apaixonada por organizar e documentar processos de design. E amo explorar e aprender novas tecnologias e ferramentas para design e programação. No mais, faço livestream na Twitch do meu trabalho, estudos e jogos como: cult of the lamb, god of war, jedi survivor e moonlighter.
 
 Atualmente eu trabalho como designer de produto e operações.
 
 **Falando sobre temas pessoais:**
 
-👩‍💻 • Desenvolvendo um app para facilitar o aprendizado de higienização de obras de arte.
+👩‍💻 • Desenvolvendo um app para facilitar a compra e montagem de computadores por pessoas leigas.
 
 🧩 • Estou aprendendo sobre aplicar regras de acessibilidade da WCAG em projetos de UI design.
 
 ✍ Escrevo documentações regularmente para um design system bancário.
 
-🎬 Estou maratonando a série BONES, adoro ciências e assuntos forenses.
+🎬 Estou maratonando a série Sucession
 
 ### Mais sobre esse repositório:
 
