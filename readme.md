@@ -29,7 +29,7 @@ Atualmente eu trabalho como designer de produto e operações.
 
 👩‍💻 • Desenvolvendo um app para facilitar a compra e montagem de computadores por pessoas leigas.
 
-🧩 • Estou aprendendo sobre aplicar regras de acessibilidade da WCAG em projetos de UI design.
+🧩 • Estou criando uma guilda de acessibilidade onde trabalho.
 
 ✍ Escrevo documentações regularmente para um design system bancário.
 
