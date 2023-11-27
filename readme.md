@@ -34,13 +34,3 @@ Atualmente eu trabalho como designer de produto e operações.
 ✍ Escrevo documentações regularmente para um design system bancário.
 
 🎬 Estou maratonando a série Sucession
-
-### Mais sobre esse repositório:
-
-<div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriazoche&layout=compact&theme=tokyonight">
-</div>
-<br />
-
-[![Cute checklist](https://github-readme-stats.vercel.app/api/pin/?username=vitoriazoche&repo=cute-pineapple)](https://github.com/vitoriazoche/cute-pineapple)
-
-[![Cute checklist](https://github-readme-stats.vercel.app/api/pin/?username=vitoriazoche&repo=vitoriazoche.github.io)](https://github.com/vitoriazoche/vitoriazoche.github.io)
