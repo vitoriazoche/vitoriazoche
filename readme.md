@@ -1,36 +1,36 @@
 <img height="180em" src="Vitória.gif">
 
 <div style="display:inline_block">
-   <a href="https://twitter.com/vprutsky" target="_blank">
+   <a href="https://twitter.com/vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
-  <a href="https://twitch.tv/vitoriazp" target="_blank">
+  <a href="https://twitch.tv/vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
    </a>
   
-   <a href="https://dev.to/vitoriazp" target="_blank">
+   <a href="https://dev.to/vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
    </a>
-   <a href="https://linkedin.com/in/vitoriazoche" target="_blank">
+   <a href="https://linkedin.com/in/vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://www.figma.com/@vitoriazp" target="_blank">
+   <a href="https://www.figma.com/@vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
    </a>
 </div>
 
 # Bom te ver por aqui! 👋
  
-Eu sou Vitória Zoche, curso uma pós-graduação em Experiência do Usuário na UFRGS. Sou apaixonada por organizar e documentar processos de design. E amo explorar e aprender novas tecnologias e ferramentas para design e programação. No mais, faço livestream na Twitch do meu trabalho, estudos e jogos como: cult of the lamb, god of war, jedi survivor e moonlighter.
+I'm Vitória Zoche, I'm studying for a postgraduate degree in User Experience at UFRGS. I'm passionate about organizing and documenting design processes. And I love exploring and learning new technologies and tools for design and programming. In addition, I livestream on Twitch my work, studies and games such as: cult of the lamb, god of war, jedi survivor and moonlighter.
 
-Atualmente eu trabalho como designer de produto e operações.
+I currently work as a product and operations designer.
 
 **Falando sobre temas pessoais:**
 
-👩‍💻 • Desenvolvendo um app para facilitar a compra e montagem de computadores por pessoas leigas.
+👩‍💻 • Developing an app to make it easier for laypeople to buy and assemble computers.
 
-🧩 • Estou criando uma guilda de acessibilidade onde trabalho.
+🧩 • I'm creating an accessibility guild where I work.
 
-✍ Escrevo documentações regularmente para um design system bancário.
+✍ I regularly write documentation for a banking design system.
 
 🎬 Estou maratonando a série Sucession
