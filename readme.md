@@ -25,12 +25,12 @@ I'm Vitória Zoche, I'm studying for a postgraduate degree in User Experience at
 
 I currently work as a product and operations designer.
 
-**Falando sobre temas pessoais:**
+**Talking about personal issues:**
 
 👩‍💻 • Developing an app to make it easier for laypeople to buy and assemble computers.
 
 🧩 • I'm creating an accessibility guild where I work.
 
-✍ I regularly write documentation for a banking design system.
+✍ • I regularly write documentation for a banking design system.
 
-🎬 Estou maratonando a série Sucession
+🎬 • Estou maratonando a série Sucession
