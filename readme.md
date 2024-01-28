@@ -29,8 +29,7 @@ I currently work as a product and operations designer.
 
 👩‍💻 • Developing an app to make it easier for laypeople to buy and assemble computers.
 
-🧩 • I'm creating an accessibility guild where I work.
+🧩 • I'm creating an Whitelabel Design where I work.
 
 ✍ • I regularly write documentation for a banking design system.
 
-🎬 • Estou maratonando a série Sucession
