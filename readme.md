@@ -33,3 +33,8 @@ I currently work as a product and operations designer.
 
 ✍ • I regularly write documentation for a banking design system.
 
+---
+
+### Rocketseat ID:
+
+<a href="https://app.rocketseat.com.br/me/vitoriazzp"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=vitoriazzp&type=card" width="280" alt="Vitória Zoche's Rocket ID"/></a>
