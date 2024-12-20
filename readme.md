@@ -1,7 +1,7 @@
 <img height="180em" src="Vitória.gif">
 
 <div style="display:inline_block">
-   <a href="https://twitter.com/vitoriazzp" target="_blank">
+   <a href="https://x/vitoriazzp" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
   <a href="https://twitch.tv/vitoriazzp" target="_blank">
@@ -32,9 +32,3 @@ I currently work as a product and operations designer.
 🧩 • I'm creating an Whitelabel Design where I work.
 
 ✍ • I regularly write documentation for a banking design system.
-
----
-
-### Rocketseat ID:
-
-<a href="https://app.rocketseat.com.br/me/vitoriazzp"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=vitoriazzp&type=card" width="280" alt="Vitória Zoche's Rocket ID"/></a>
