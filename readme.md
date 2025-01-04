@@ -19,7 +19,9 @@
    </a>
 </div>
 
-# Good to see you here! 👋
+<br>
+
+Good to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
  
 I'm Vitória Zoche, I'm studying for a postgraduate degree in User Experience at UFRGS. I'm passionate about organizing and documenting design processes. And I love exploring and learning new technologies and tools for design and programming. In addition, I livestream on Twitch my work, studies and games such as: cult of the lamb, god of war, jedi survivor and moonlighter.
 
