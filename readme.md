@@ -1,8 +1,8 @@
 # Vitória Zoche
 
-[![Twitter Badge](https://img.shields.io/badge/-@vitoriazzp-5E2555?style=flat-square&labelColor=5E2555&logo=twitter&logoColor=white&link=https://x.com/vitoriazzp)](https://x.com/vitoriazzp) 
-[![Linkedin Badge](https://img.shields.io/badge/-vitoriazzp-5E2555?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriazzp/)](https://www.linkedin.com/in/vitoriazzp/) 
-[![Gmail Badge](https://img.shields.io/badge/-viitoriazzp@gmail.com-5E2555?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viitoriazzp@gmail.com)](mailto:viitoriazzp@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@vitoriazzp-5E2555?style=flat-square&labelColor=5E2555&link=https://x.com/vitoriazzp)](https://x.com/vitoriazzp) 
+[![Linkedin Badge](https://img.shields.io/badge/-vitoriazzp-5E2555?style=flat-square&link=https://www.linkedin.com/in/vitoriazzp/)](https://www.linkedin.com/in/vitoriazzp/) 
+[![Gmail Badge](https://img.shields.io/badge/-viitoriazzp@gmail.com-5E2555?style=flat-square&link=mailto:viitoriazzp@gmail.com)](mailto:viitoriazzp@gmail.com)
 
 
 Obsessed with user and developer experience, simple, scalable and user-friendly applications.
