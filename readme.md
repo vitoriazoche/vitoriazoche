@@ -1,6 +1,6 @@
 # Vitória Zoche
 
-Twitter: [@vitoriazzp](https://x.com/vitoriazzp) 
+DevTo: [@vitoriazzp](https://dev.to/vitoriazzp) 
 LinkedIn [in/vitoriazzp/](https://www.linkedin.com/in/vitoriazzp/) 
 
 
