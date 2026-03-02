@@ -14,7 +14,7 @@ These days I'm focused on:
 **Some stuff i build:**
 - [Vitoriazzp Portfolio](https://vitoriazzp.framer.wiki/) - A framer website, but only the construction of the pages about my projects, I reused the rest of the site from the Resumex template..
 - [Purchases Calculator](https://github.com/vitoriazzp/calculadora-compras-exterior) - A calculator in website format, it calculates the value with Brazilian taxes and also adds the discount when one of the stores mentioned is on the Federal Government's authorization list.
-- [UX Method Finder](https://github.com/vitoriazoche/qual-metodo-ux) - A fun application that allows you to search for specific methods and also add new ones. Created with vibecoding to assist in everyday life as a UX Designer.
+- [UX Method Finder](https://github.com/vitoriazoche/UX-Method-Finder/) - A fun application that allows you to search for specific methods and also add new ones. Created with vibecoding to assist in everyday life as a UX Designer.
 - [AcadResume](https://github.com/vitoriazoche/AcadResume) - Focused on Brazilian students, this generator creates complete, easy-to-use resumes for applying for scientific or academic scholarships. Free to use.
 
 ---
