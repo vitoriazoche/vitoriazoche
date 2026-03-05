@@ -4,7 +4,7 @@
 I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Brasil. I like creating modern and objective digital experiences for products, services, and people.
 
 **These days I'm focused on:**
-- discovery process with double diamond
+- Freelancing Projects
 - iOS Fundamentals & Swift Structure
 - Data Analyses for UX
 - Moderated a community for Developers: [@he4rt](https://github.com/he4rt) and [@He4rt-Delas ](https://github.com/He4rt-Delas)
