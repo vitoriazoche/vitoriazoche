@@ -24,3 +24,6 @@ I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Br
 - I love going to tech events, but I'm an introvert.
 - _Ghost Of Tsushima_ it's my favorite game
 - **Hobbies:** Pilates, games, and anime
+
+  ![detective-anya-forger-3079918752](https://github.com/user-attachments/assets/f1851b09-20c8-4994-b0bd-f16906403907)
+
