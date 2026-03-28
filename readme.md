@@ -5,8 +5,8 @@ I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Br
 
 **These days I'm focused on:**
 - Freelancing Projects
-- iOS Fundamentals & Swift Structure
 - Data Analyses for UX
+- Sell templates on Framer and Etsy Marketplace
 - Moderated a community for Developers: [@he4rt](https://github.com/he4rt) and [@He4rt-Delas ](https://github.com/He4rt-Delas)
 
 ---
