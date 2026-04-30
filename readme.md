@@ -15,13 +15,13 @@ I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Br
 - [Purchases Calculator](https://github.com/vitoriazzp/calculadora-compras-exterior) - A calculator in website format, it calculates the value with Brazilian taxes and also adds the discount when one of the stores mentioned is on the Federal Government's authorization list.
 - [AcadResume](https://github.com/vitoriazoche/AcadResume) - Focused on Brazilian students, this generator creates complete, easy-to-use resumes for applying for scientific or academic scholarships. Free to use.
 
----
+  ![lightning lamp](https://github.com/vitoriazoche/vitoriazoche/blob/master/christmas-lights-transparent-background-1037-usagif-2346757984.gif)
 
 **Fun facts:**
-- I don't like coffee, but I like matcha latte or RedBull.
+- I'm one of those people who drink energy drinks or beer.
 - I love going to tech events, but I'm an introvert.
 - _Ghost Of Tsushima_ it's my favorite game
 - **Hobbies:** Pilates, games, and anime
 
-  ![detective-anya-forger-3079918752](https://github.com/user-attachments/assets/f1851b09-20c8-4994-b0bd-f16906403907)
+
 
