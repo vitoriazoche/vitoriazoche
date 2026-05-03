@@ -8,6 +8,10 @@ I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Br
 - Sell templates on Framer and Etsy Marketplace
 - Moderated a community for Developers: [@he4rt](https://github.com/he4rt) and [@He4rt-Delas ](https://github.com/He4rt-Delas)
 
+[![Visitors](https://api.visitorbadge.io/api/daily?path=vitoriazoche&label=Visits%20here%3A&countColor=%23ff8a65&style=flat)](https://visitorbadge.io/status?path=vitoriazoche)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=vitoriazzp&label=Visits%20%40vitoriazzp%3A&countColor=%23ff8a65&style=flat-square)](https://visitorbadge.io/status?path=vitoriazzp)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHe4rt-Delas&label=Visits%20%40he4rt-delas%3A&countColor=%23f47373&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHe4rt-Delas)
+
 ---
 
 **Some stuff i build:**
@@ -15,13 +19,8 @@ I'm [**Vitoria**](https://vitoriazzp.framer.wiki/), a UI/UX Engineer based in Br
 - [Purchases Calculator](https://github.com/vitoriazzp/calculadora-compras-exterior) - A calculator in website format, it calculates the value with Brazilian taxes and also adds the discount when one of the stores mentioned is on the Federal Government's authorization list.
 - [AcadResume](https://github.com/vitoriazoche/AcadResume) - Focused on Brazilian students, this generator creates complete, easy-to-use resumes for applying for scientific or academic scholarships. Free to use.
 
-  ![lightning lamp](https://github.com/vitoriazoche/vitoriazoche/blob/master/christmas-lights-transparent-background-1037-usagif-2346757984.gif)
 
 **Fun facts:**
-- I'm one of those people who drink energy drinks or beer.
 - I love going to tech events, but I'm an introvert.
 - _Ghost Of Tsushima_ it's my favorite game
 - **Hobbies:** Pilates, games, and anime
-
-
-
