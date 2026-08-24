@@ -23,10 +23,10 @@ I build professional interfaces from conception through implementation, and I ha
 ## 🎧 Content Creator
 I've been creating some content, ranging from social media posts and newsletter articles to livestreams
 
-🟣 [Twitch Channel](https://www.twitch.tv/vitoriazzp/) (590 followers) - I do live streams where I work and study together with others, listening to instrumental music and sometimes talking about our daily routines or questions about technology and design
+🟣 [Twitch Channel](https://www.twitch.tv/vitoriazzp/) (594 followers) - I do live streams where I work and study together with others, listening to instrumental music and sometimes talking about our daily routines or questions about technology and design
 
-⚪ [DEVto Profile](https://dev.to/vitoriazzp) (3.955 followers) - I share my journey as a UX designer and engineer, as well as tips on tech events, how to contribute more effectively to online communities, and topics related to productivity and psychology by writing articles in Portuguese (primarily) and English.
+⚪ [DEVto Profile](https://dev.to/vitoriazzp) (4.289 followers) - I share my journey as a UX designer and engineer, as well as tips on tech events, how to contribute more effectively to online communities, and topics related to productivity and psychology by writing articles in Portuguese (primarily) and English.
 
 🟠 [Instagram Profile](https://www.instagram.com/viitoriazzp/) (1.070 followers) - I share my daily routine, tips about communities, and have been offering design solutions for people who create products using AI but haven't been able to make them look professional
 
-🔵 **LinkedIn Newsletter** - I write monthly about product design, challenges in the tech industry over the past few months, and tech communities and AI workflows.
+🔵 **LinkedIn Newsletter** (341 subscribers at Merge Point & 445 subscribers at Pastelaria de Design) - I write monthly about product design, challenges in the tech industry over the past few months, and tech communities and AI workflows.
