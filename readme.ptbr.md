@@ -29,4 +29,4 @@ Crio alguns conteúdos, que vão desde publicações nas redes sociais e artigos
 
 🟠 [Instagram Profile](https://www.instagram.com/viitoriazzp/) (1.070 seguidores) - Compartilho a minha rotina diária, dou dicas sobre comunidades e ofereço soluções de design para pessoas que criam produtos utilizando IA, mas que ainda não conseguiram dar-lhes um "aparência" profissional
 
-🔵 **LinkedIn Newsletter** - Escrevo mensalmente sobre design de produto, os desafios enfrentados pela indústria tecnológica nos últimos meses, bem como sobre as comunidades tecnológicas e os fluxos de trabalho de IA.
+🔵 **LinkedIn Newsletter** (341 inscritos no Merge Point & 445 inscritos no Pastelaria de Design) - Escrevo mensalmente sobre design de produto, os desafios enfrentados pela indústria tecnológica nos últimos meses, bem como sobre as comunidades tecnológicas e os fluxos de trabalho de IA.
