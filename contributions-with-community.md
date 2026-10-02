@@ -73,6 +73,8 @@
 
 ### 💜 He4rt Developers
 - issue: Add the WhatsApp link and badge to the README - **PTBR** - https://github.com/he4rt/.github/pull/3/changes/4f272f2fc9d6b669982c00f8d4bdae59e1ca9caa
+- PR 135: Update the README, badges, and organize visual assets - **PTBR** - https://github.com/he4rt/4noobs/pull/135
+- issue 513: The profile's connections card disappears on mobile - **PTBR** - https://github.com/he4rt/heartdevs.com/issues/513
 
 ### 💚 Abacate Pay
 - issue: Add a valid Discord link for the abacate pay - **PTBR** - https://github.com/AbacatePay/.github/issues/6
