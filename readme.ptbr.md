@@ -23,13 +23,13 @@ Crio interfaces profissionais, desde a concepção até à implementação, e te
 ## 🎧 Criadora de Conteúdo
 Crio alguns conteúdos, que vão desde publicações nas redes sociais e artigos para newsletters até transmissões ao vivo
 
-🟣 [Canal da Twitch](https://www.twitch.tv/vitoriazzp/) (603 seguidores) - Faço transmissões ao vivo em que trabalho e estudo em conjunto com outras pessoas, a ouvir música instrumental e, por vezes, a falar sobre as nossas rotinas diárias ou a debater questões relacionadas com tecnologia e design
+🟣 [Canal da Twitch](https://www.twitch.tv/vitoriazzp/) (611 seguidores) - Faço transmissões ao vivo em que trabalho e estudo em conjunto com outras pessoas, a ouvir música instrumental e, por vezes, a falar sobre as nossas rotinas diárias ou a debater questões relacionadas com tecnologia e design
 
 ⚪ [Perfil no DEVto](https://dev.to/vitoriazzp) (4.598 seguidores) - Partilho a minha trajetória como designer de UX e engenheiro, bem como dicas sobre eventos tecnológicos, sobre como contribuir de forma mais eficaz para as comunidades online e temas relacionados com a produtividade e a psicologia, escrevendo artigos em português (principalmente) e em inglês.
 
-🟠 [Perfil no Instagram](https://www.instagram.com/viitoriazzp/) (963 seguidores) - Compartilho a minha rotina diária, dou dicas sobre comunidades e ofereço soluções de design para pessoas que criam produtos utilizando IA, mas que ainda não conseguiram dar-lhes um "aparência" profissional
+🟠 [Perfil no Instagram](https://www.instagram.com/viitoriazzp/) (690 seguidores) - Compartilho a minha rotina diária, dou dicas sobre comunidades e ofereço soluções de design para pessoas que criam produtos utilizando IA, mas que ainda não conseguiram dar-lhes um "aparência" profissional
 
 🔵 **Newsletter do LinkedIn**  - Escrevo mensalmente sobre design de produto, os desafios enfrentados pela indústria tecnológica nos últimos meses, bem como sobre as comunidades tecnológicas e os fluxos de trabalho de IA.
-- 401 inscritos no Merge Point 
-- 454 inscritos no Pastelaria de Design)
-- 2,812 seguidores no meu perfil pessoal
+- 412 inscritos no Merge Point 
+- 457  inscritos no Pastelaria de Design)
+- 2,849 seguidores no meu perfil pessoal
